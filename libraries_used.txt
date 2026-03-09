@@ -1,0 +1,4 @@
+Adafruit_MCP4725 (For MCP4725 DAC Module)
+STM32_CAN  
+Wire  (I2C for DAC module)
+Arduino Core for STM32
